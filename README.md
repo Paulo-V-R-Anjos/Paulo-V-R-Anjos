@@ -3,7 +3,7 @@
 
 ### I am currently pursuing a double master's degree through a partnership between Universidade Federal do Pará (UFPA) and Technische Universität Dortmund (TU). I hold a Bachelor's degree in Computer Engineering from UFPA and a technical qualification in Information Technology from Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA).
 
-## My GitHub Analytics
+## 💹 My GitHub Analytics
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Paulo-V-R-Anjos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Paulo-V-R-Anjos's GitHub Stats" />
