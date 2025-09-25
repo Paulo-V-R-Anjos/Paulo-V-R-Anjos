@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/intro/linux.png" width="170px" align="right"/>
 </p>
 
-## Hello!
+<h2 align="center">Hello!</h2>
 
 <br clear="all">
 
