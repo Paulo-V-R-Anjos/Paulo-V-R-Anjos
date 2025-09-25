@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,html,css,git,figma,aws,flutter,docker,c,obsidian,terminal" />
-  <img src="https://skillicons.dev/icons?i=python,vscode,linux,ubuntu,gitlab,matlab,flask,arduino" />
+  <img src="https://skillicons.dev/icons?i=sql,python,vscode,linux,ubuntu,gitlab,matlab,flask,arduino" />
 </p>
 
 <div align=center>
