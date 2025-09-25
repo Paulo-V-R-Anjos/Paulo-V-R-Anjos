@@ -3,6 +3,8 @@
 
 ### I am currently pursuing a double master's degree through a partnership between Universidade Federal do Pará (UFPA) and Technische Universität Dortmund (TU). I hold a Bachelor's degree in Computer Engineering from UFPA and a technical qualification in Information Technology from Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA).
 
+## My GitHub Analytics
+
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Paulo-V-R-Anjos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Paulo-V-R-Anjos's GitHub Stats" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-V-R-Anjos&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Paulo-V-R-Anjos's Most Used Languages" />
@@ -23,7 +25,7 @@
 [<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/linkedin.png" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on LinkedIn" title="Follow Paulo-V-R-Anjos on LinkedIn"/>](https://linkedin.com/in/Paulo-V-R-Anjos)
 [<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/lattes.png" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on Lattes" title="Follow Paulo-V-R-Anjos on Lattes"/>](http://lattes.cnpq.br/9696724055949612)
 [<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/ieee.svg" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on IEEEXplore" title="Follow Paulo-V-R-Anjos on IEEEXplore"/>](https://ieeexplore.ieee.org/author/264399272423522)
-[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/gmail.svg" height="40em" align="center" alt="Contact Paulo on Gmail" title="Contact Paulo on Gmail"/>](vinicius.rios40@gmail.com)
+[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/gmail.svg" height="40em" align="center" alt="Contact Paulo on Gmail" title="Contact Paulo on Gmail"/>](mailto:vinicius.rios40@gmail.com)
 
 
 
