@@ -8,8 +8,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,html,css,git,figma,aws,flutter,docker,c,c++" />
-  <img src="https://skillicons.dev/icons?i=python,vscode,linux,ubuntu,gitlab,matlab,flask,arduino,obsidian,cmd" />
+  <img src="https://skillicons.dev/icons?i=mongodb,html,css,git,figma,aws,flutter,docker,c,c++,obsidian,terminal" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,linux,ubuntu,gitlab,matlab,flask,arduino" />
 </p>
 
 <div align=center>
