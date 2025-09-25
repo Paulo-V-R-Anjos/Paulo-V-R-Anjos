@@ -22,7 +22,7 @@
 
 [<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/linkedin.png" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on LinkedIn" title="Follow Paulo-V-R-Anjos on LinkedIn"/>](https://linkedin.com/in/Paulo-V-R-Anjos)
 
-[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/lattes.png" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on Lattes" title="Follow Paulo-V-R-Anjos on Lattes"/>]([YOUR_LATTES_URL](http://lattes.cnpq.br/9696724055949612))
+[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/lattes.png" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on Lattes" title="Follow Paulo-V-R-Anjos on Lattes"/>](http://lattes.cnpq.br/9696724055949612)
 
 
 <!--
