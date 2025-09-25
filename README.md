@@ -3,6 +3,11 @@
 
 ### I am currently pursuing a double master's degree through a partnership between Universidade Federal do Pará (UFPA) and Technische Universität Dortmund (TU). I hold a Bachelor's degree in Computer Engineering from UFPA and a technical qualification in Information Technology from Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA).
 
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Paulo-V-R-Anjos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Paulo-V-R-Anjos's GitHub Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-V-R-Anjos&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Paulo-V-R-Anjos's Most Used Languages" />
+</div>
+
 ## 🛠️ Languages and Tools
 
 <br>
@@ -11,11 +16,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,html,css,git,figma,aws,dart,flutter,docker,c,cpp,obsidian,raspberrypi,androidstudio" />
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,python,vscode,linux,ubuntu,latex,gitlab,matlab,flask,arduino,anaconda" />
 </p>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Paulo-V-R-Anjos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Paulo-V-R-Anjos's GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-V-R-Anjos&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Paulo-V-R-Anjos's Most Used Languages" />
-</div>
 
 
 ## 📫 Contact
