@@ -18,6 +18,13 @@
 </div>
 
 
+### Contact
+
+[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/linkedin.png" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on LinkedIn" title="Follow Paulo-V-R-Anjos on LinkedIn"/>](https://linkedin.com/in/Paulo-V-R-Anjos)
+
+[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/lattes.png" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on Lattes" title="Follow Paulo-V-R-Anjos on Lattes"/>](YOUR_LATTES_URL)
+
+
 <!--
 **Paulo-V-R-Anjos/Paulo-V-R-Anjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
