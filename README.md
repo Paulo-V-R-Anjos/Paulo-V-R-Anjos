@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/intro/binary.gif" width="40px" align="left"/> 
+  <img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/intro/linux.png" width="40px" align="right"/>
+</p>
+
 ## Hello!
 
 
