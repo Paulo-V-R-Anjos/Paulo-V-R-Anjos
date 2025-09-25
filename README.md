@@ -32,10 +32,15 @@
 
 ## 📫 Contact and Profiles
 
-[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/gmail.png" height="40em" align="center" alt="Contact Paulo on Gmail" title="Contact Paulo on Gmail"/>](mailto:vinicius.rios40@gmail.com)
-[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/linkedin.png" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on LinkedIn" title="Follow Paulo-V-R-Anjos on LinkedIn"/>](https://linkedin.com/in/Paulo-V-R-Anjos)
-[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/lattes.png" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on Lattes" title="Follow Paulo-V-R-Anjos on Lattes"/>](http://lattes.cnpq.br/9696724055949612)
-[<img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/ieee.svg" height="40em" align="center" alt="Follow Paulo-V-R-Anjos on IEEEXplore" title="Follow Paulo-V-R-Anjos on IEEEXplore"/>](https://ieeexplore.ieee.org/author/264399272423522)
+<p align="center">
+  <a href="mailto:vinicius.rios40@gmail.com"><img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/gmail.png" height="40em" alt="Contact Paulo on Gmail" title="Contact Paulo on Gmail"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/Paulo-V-R-Anjos"><img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/linkedin.png" height="40em" alt="Follow Paulo-V-R-Anjos on LinkedIn" title="Follow Paulo-V-R-Anjos on LinkedIn"/></a>
+  &nbsp;
+  <a href="http://lattes.cnpq.br/9696724055949612"><img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/lattes.png" height="40em" alt="Follow Paulo-V-R-Anjos on Lattes" title="Follow Paulo-V-R-Anjos on Lattes"/></a>
+  &nbsp;
+  <a href="https://ieeexplore.ieee.org/author/264399272423522"><img src="https://raw.githubusercontent.com/Paulo-V-R-Anjos/Paulo-V-R-Anjos/master/socials/ieee.svg" height="40em" alt="Follow Paulo-V-R-Anjos on IEEEXplore" title="Follow Paulo-V-R-Anjos on IEEEXplore"/></a>
+</p>
 
 
 
