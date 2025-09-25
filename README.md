@@ -1,15 +1,15 @@
 ## Hello!
 
 
-### I am currently pursuing a Double Master's degree through a partnership between Universidade Federal do Pará (UFPA) and Technische Universität Dortmund (TU). I hold a Bachelor's degree in Computer Engineering from UFPA and a technical qualification in Information Technology from Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA).
+### I am currently pursuing a double master's degree through a partnership between Universidade Federal do Pará (UFPA) and Technische Universität Dortmund (TU). I hold a Bachelor's degree in Computer Engineering from UFPA and a technical qualification in Information Technology from Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA).
 
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,html,css,git,figma,aws,flutter,docker,c,obsidian" />
-  <img src="https://skillicons.dev/icons?i=mysql,python,vscode,linux,ubuntu,gitlab,matlab,flask,arduino" />
+  <img src="https://skillicons.dev/icons?i=mongodb,html,css,git,figma,aws,dart,flutter,docker,c,cpp,obsidian,raspberrypi,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,python,vscode,linux,ubuntu,latex,gitlab,matlab,flask,arduino,anaconda" />
 </p>
 
 <div align=center>
